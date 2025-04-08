@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo1 -N"G:\Other computers\driveE\Drive\studies\fatec\2024_first_semester\courses\appliedPrograming\motorProject\mainCode\mainCode.mcppi" -SP"E:\softwares\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"E:\softwares\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"G:\Other computers\driveE\Drive\studies\fatec\2024_first_semester\courses\appliedPrograming\motorProject\mainCode\" -IP"E:\softwares\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"G:\Other computers\driveE\Drive\studies\fatec\2024_first_semester\courses\appliedPrograming\motorProject\mainCode\" "mainCode.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_PWM_c21.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	mainCode.c
+diagnostics: 196	123	Compiled Successfully	mainCode.c
+hint: 101	1164	Variable 'adcvalue' has been eliminated by optimizer	mainCode.c
+diagnostics: 0	127	All files Compiled in 140 ms	 
+hint: 0	1144	Used RAM (bytes): 183 (52%)  Free RAM (bytes): 169 (48%)	Used RAM (bytes): 183 (52%)  Free RAM (bytes): 169 (48%)
+hint: 0	1144	Used ROM (program words): 3178 (39%)  Free ROM (program words): 5014 (61%)	Used ROM (program words): 3178 (39%)  Free ROM (program words): 5014 (61%)
+diagnostics: 0	125	Project Linked Successfully	mainCode.mcppi
+diagnostics: 0	128	Linked in 219 ms	 
+diagnostics: 0	129	Project 'mainCode.mcppi' completed: 375 ms	 
+diagnostics: 0	103	Finished successfully: 10 Jun 2024, 23:24:55	mainCode.mcppi
